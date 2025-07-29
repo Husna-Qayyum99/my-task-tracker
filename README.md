@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/8b99fa1d-bb8d-4e61-9702-9f75eebd82d2" /># 📝 Daily Task Tracker
+# 📝 Daily Task Tracker
 
 A simple and clean task tracking app made with HTML, CSS, and JavaScript.
 

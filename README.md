@@ -15,10 +15,11 @@ A simple and clean task tracking app made with HTML, CSS, and JavaScript.
 
 ## 📸 Screenshot
 
-![Task Tracker Screenshot](<img width="1366" height="768" alt="Screenshot (547)" src="https://github.com/user-attachments/assets/cacf5223-5be3-4397-99e6-dcf1eb85c118" />
+![Task Tracker Screenshot](<img width="853" height="673" alt="Screenshot (544)" src="https://github.com/user-attachments/assets/bd10c6df-7acb-4605-9f8f-cba31858480f" />
+
 )
 
-![Task Tracker Screenshot](<img width="1366" height="768" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/8188fa37-939e-41dd-814c-79fe2c69e358" />
-)
+![Task Tracker Screenshot](<img width="859" height="683" alt="Screenshot (546)" src="https://github.com/user-attachments/assets/ec772eff-388d-4d21-9d5c-ae5f37b91322" />
+
 
 
